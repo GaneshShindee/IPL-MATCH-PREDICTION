@@ -1,7 +1,7 @@
 # IPL Win Predictor
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)](https://ipl-match-predictor.streamlit.app/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-IPL%20Win%20Predictor-green)](https://github.com/rajatrawal/ipl-win-predictor)
+[![GitHub Repository]([https://img.shields.io/badge/GitHub%20Repo-IPL%20Win%20Predictor-green)](https://github.com/rajatrawal/ipl-win-predictor](https://github.com/GaneshShindee/IPL-MATCH-PREDICTION.git))
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
@@ -66,7 +66,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine using this command:
 
    ```shell
-   git clone https://github.com/rajatrawal/ipl-win-predictor.git
+   git clone https://github.com/GaneshShindee/IPL-MATCH-PREDICTION.git
    ```
 
 2. Navigate to the project directory:
@@ -100,6 +100,6 @@ Explore the "IPL Win Predictor" and make data-driven predictions about IPL match
 
 ## Contribute
 
-If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/rajatrawal/ipl-win-predictor).
+If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/GaneshShindee/IPL-MATCH-PREDICTION).
 
 Thank you for exploring the "IPL Win Predictor"! We hope this tool assists your IPL match predictions. 🏏🌟
